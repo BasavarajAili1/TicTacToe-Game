@@ -1,2 +1,2 @@
-# TicTacToe
- Simple Tic Tac Toe using Core Java concepts
+# TicTacToe 🕹
+ Simple TicTacToe game using Core Java concepts
